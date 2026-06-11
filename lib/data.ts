@@ -15,7 +15,7 @@ export const profile = {
     "I build software and businesses. CS & Math student at Vanier College, founder of a lawn-care company, tutor, and goalie coach — turning ideas into things people actually use.",
   location: "Montréal, QC",
   email: "bianco.mossimo2@gmail.com",
-  linkedinUrl: "https://www.linkedin.com/in/your-handle", // TODO: replace with your LinkedIn URL
+  linkedinUrl: "https://www.linkedin.com/in/mossimo-bianco/",
   resumeUrl: "/resume.pdf", // drop your real PDF at public/resume.pdf
 };
 
